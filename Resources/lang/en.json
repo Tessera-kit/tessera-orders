@@ -1,0 +1,18 @@
+{
+    "orders": {
+        "orderDetails": "Order Details",
+        "orderDate": "Order Date",
+        "cashier": "Cashier",
+        "customer": "Customer",
+        "items": "Items",
+        "paymentMethod": "Payment Method",
+        "paymentTypes": "Payment Types",
+        "debt": "Debt",
+        "completed": "Completed",
+        "voidOrder": "Void Order",
+        "confirmVoid": "Are you sure you want to void this order?",
+        "printReceipt": "Print Receipt",
+        "discount": "Discount",
+        "change": "Change"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "orders": {
+        "orderDetails": "تفاصيل الطلب",
+        "orderDate": "تاريخ الطلب",
+        "cashier": "الكاشير",
+        "customer": "العميل",
+        "items": "العناصر",
+        "paymentMethod": "طريقة الدفع",
+        "paymentTypes": "أنواع الدفع",
+        "debt": "دين",
+        "completed": "مكتمل",
+        "voidOrder": "إلغاء الطلب",
+        "confirmVoid": "هل أنت متأكد من إلغاء هذا الطلب؟",
+        "printReceipt": "طباعة الفاتورة",
+        "discount": "الخصم",
+        "change": "الباقي"
+    }
+}
